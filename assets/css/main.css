@@ -1837,6 +1837,14 @@ section#accomodation {
     background-attachment: fixed;
   }
 
+  section#about {
+    background-color: #D0BCA0;
+    background-image: url(../img/bg1.png);
+    background-size: auto;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
   .col-lg-6.d-flex.flex-column.justify-content-center.aos-init.aos-animate h1 {
     font-size: 45px;
     text-align: center;
