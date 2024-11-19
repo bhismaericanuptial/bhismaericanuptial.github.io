@@ -815,7 +815,7 @@ section#about {
 
 .hero:before {
   content: "";
-  background: color-mix(in srgb, var(--background-color), transparent 65%);
+  background: color-mix(in srgb, var(--background-color), transparent 85%);
   position: absolute;
   inset: 0;
   z-index: 2;
